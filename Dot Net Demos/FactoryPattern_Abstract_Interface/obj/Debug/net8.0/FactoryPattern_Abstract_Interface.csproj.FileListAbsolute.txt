@@ -1,0 +1,14 @@
+D:\250845920054\MS Dot Net\MS Dot Net\FactoryPattern_Abstract_Interface\obj\Debug\net8.0\FactoryPattern_Abstract_Interface.GeneratedMSBuildEditorConfig.editorconfig
+D:\250845920054\MS Dot Net\MS Dot Net\FactoryPattern_Abstract_Interface\obj\Debug\net8.0\FactoryPattern_Abstract_Interface.AssemblyInfoInputs.cache
+D:\250845920054\MS Dot Net\MS Dot Net\FactoryPattern_Abstract_Interface\obj\Debug\net8.0\FactoryPattern_Abstract_Interface.AssemblyInfo.cs
+D:\250845920054\MS Dot Net\MS Dot Net\FactoryPattern_Abstract_Interface\obj\Debug\net8.0\FactoryPattern_Abstract_Interface.csproj.CoreCompileInputs.cache
+D:\250845920054\MS Dot Net\MS Dot Net\FactoryPattern_Abstract_Interface\bin\Debug\net8.0\FactoryPattern_Abstract_Interface.exe
+D:\250845920054\MS Dot Net\MS Dot Net\FactoryPattern_Abstract_Interface\bin\Debug\net8.0\FactoryPattern_Abstract_Interface.deps.json
+D:\250845920054\MS Dot Net\MS Dot Net\FactoryPattern_Abstract_Interface\bin\Debug\net8.0\FactoryPattern_Abstract_Interface.runtimeconfig.json
+D:\250845920054\MS Dot Net\MS Dot Net\FactoryPattern_Abstract_Interface\bin\Debug\net8.0\FactoryPattern_Abstract_Interface.dll
+D:\250845920054\MS Dot Net\MS Dot Net\FactoryPattern_Abstract_Interface\bin\Debug\net8.0\FactoryPattern_Abstract_Interface.pdb
+D:\250845920054\MS Dot Net\MS Dot Net\FactoryPattern_Abstract_Interface\obj\Debug\net8.0\FactoryPattern_Abstract_Interface.dll
+D:\250845920054\MS Dot Net\MS Dot Net\FactoryPattern_Abstract_Interface\obj\Debug\net8.0\refint\FactoryPattern_Abstract_Interface.dll
+D:\250845920054\MS Dot Net\MS Dot Net\FactoryPattern_Abstract_Interface\obj\Debug\net8.0\FactoryPattern_Abstract_Interface.pdb
+D:\250845920054\MS Dot Net\MS Dot Net\FactoryPattern_Abstract_Interface\obj\Debug\net8.0\FactoryPattern_Abstract_Interface.genruntimeconfig.cache
+D:\250845920054\MS Dot Net\MS Dot Net\FactoryPattern_Abstract_Interface\obj\Debug\net8.0\ref\FactoryPattern_Abstract_Interface.dll

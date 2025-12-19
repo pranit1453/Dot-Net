@@ -1,0 +1,14 @@
+D:\250845920054\MS Dot Net\MS Dot Net\Events_And_Delegates\bin\Debug\net8.0\Events_And_Delegates.exe
+D:\250845920054\MS Dot Net\MS Dot Net\Events_And_Delegates\bin\Debug\net8.0\Events_And_Delegates.deps.json
+D:\250845920054\MS Dot Net\MS Dot Net\Events_And_Delegates\bin\Debug\net8.0\Events_And_Delegates.runtimeconfig.json
+D:\250845920054\MS Dot Net\MS Dot Net\Events_And_Delegates\bin\Debug\net8.0\Events_And_Delegates.dll
+D:\250845920054\MS Dot Net\MS Dot Net\Events_And_Delegates\bin\Debug\net8.0\Events_And_Delegates.pdb
+D:\250845920054\MS Dot Net\MS Dot Net\Events_And_Delegates\obj\Debug\net8.0\Events_And_Delegates.GeneratedMSBuildEditorConfig.editorconfig
+D:\250845920054\MS Dot Net\MS Dot Net\Events_And_Delegates\obj\Debug\net8.0\Events_And_Delegates.AssemblyInfoInputs.cache
+D:\250845920054\MS Dot Net\MS Dot Net\Events_And_Delegates\obj\Debug\net8.0\Events_And_Delegates.AssemblyInfo.cs
+D:\250845920054\MS Dot Net\MS Dot Net\Events_And_Delegates\obj\Debug\net8.0\Events_And_Delegates.csproj.CoreCompileInputs.cache
+D:\250845920054\MS Dot Net\MS Dot Net\Events_And_Delegates\obj\Debug\net8.0\Events_And_Delegates.dll
+D:\250845920054\MS Dot Net\MS Dot Net\Events_And_Delegates\obj\Debug\net8.0\refint\Events_And_Delegates.dll
+D:\250845920054\MS Dot Net\MS Dot Net\Events_And_Delegates\obj\Debug\net8.0\Events_And_Delegates.pdb
+D:\250845920054\MS Dot Net\MS Dot Net\Events_And_Delegates\obj\Debug\net8.0\Events_And_Delegates.genruntimeconfig.cache
+D:\250845920054\MS Dot Net\MS Dot Net\Events_And_Delegates\obj\Debug\net8.0\ref\Events_And_Delegates.dll

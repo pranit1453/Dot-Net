@@ -1,0 +1,7 @@
+D:\250845920054\MS Dot Net\MS Dot Net\Standard_DotNet_Hello_World\bin\Debug\Standard_DotNet_Hello_World.exe.config
+D:\250845920054\MS Dot Net\MS Dot Net\Standard_DotNet_Hello_World\bin\Debug\Standard_DotNet_Hello_World.exe
+D:\250845920054\MS Dot Net\MS Dot Net\Standard_DotNet_Hello_World\bin\Debug\Standard_DotNet_Hello_World.pdb
+D:\250845920054\MS Dot Net\MS Dot Net\Standard_DotNet_Hello_World\obj\Debug\Standard_DotNet_Hello_World.csproj.AssemblyReference.cache
+D:\250845920054\MS Dot Net\MS Dot Net\Standard_DotNet_Hello_World\obj\Debug\Standard_DotNet_Hello_World.csproj.CoreCompileInputs.cache
+D:\250845920054\MS Dot Net\MS Dot Net\Standard_DotNet_Hello_World\obj\Debug\Standard_DotNet_Hello_World.exe
+D:\250845920054\MS Dot Net\MS Dot Net\Standard_DotNet_Hello_World\obj\Debug\Standard_DotNet_Hello_World.pdb

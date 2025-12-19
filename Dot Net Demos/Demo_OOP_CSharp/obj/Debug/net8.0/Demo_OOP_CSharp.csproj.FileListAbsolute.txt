@@ -1,0 +1,14 @@
+D:\250845920054\MS Dot Net\MS Dot Net\Demo_OOP_CSharp\bin\Debug\net8.0\Demo_OOP_CSharp.exe
+D:\250845920054\MS Dot Net\MS Dot Net\Demo_OOP_CSharp\bin\Debug\net8.0\Demo_OOP_CSharp.deps.json
+D:\250845920054\MS Dot Net\MS Dot Net\Demo_OOP_CSharp\bin\Debug\net8.0\Demo_OOP_CSharp.runtimeconfig.json
+D:\250845920054\MS Dot Net\MS Dot Net\Demo_OOP_CSharp\bin\Debug\net8.0\Demo_OOP_CSharp.dll
+D:\250845920054\MS Dot Net\MS Dot Net\Demo_OOP_CSharp\bin\Debug\net8.0\Demo_OOP_CSharp.pdb
+D:\250845920054\MS Dot Net\MS Dot Net\Demo_OOP_CSharp\obj\Debug\net8.0\Demo_OOP_CSharp.GeneratedMSBuildEditorConfig.editorconfig
+D:\250845920054\MS Dot Net\MS Dot Net\Demo_OOP_CSharp\obj\Debug\net8.0\Demo_OOP_CSharp.AssemblyInfoInputs.cache
+D:\250845920054\MS Dot Net\MS Dot Net\Demo_OOP_CSharp\obj\Debug\net8.0\Demo_OOP_CSharp.AssemblyInfo.cs
+D:\250845920054\MS Dot Net\MS Dot Net\Demo_OOP_CSharp\obj\Debug\net8.0\Demo_OOP_CSharp.csproj.CoreCompileInputs.cache
+D:\250845920054\MS Dot Net\MS Dot Net\Demo_OOP_CSharp\obj\Debug\net8.0\Demo_OOP_CSharp.dll
+D:\250845920054\MS Dot Net\MS Dot Net\Demo_OOP_CSharp\obj\Debug\net8.0\refint\Demo_OOP_CSharp.dll
+D:\250845920054\MS Dot Net\MS Dot Net\Demo_OOP_CSharp\obj\Debug\net8.0\Demo_OOP_CSharp.pdb
+D:\250845920054\MS Dot Net\MS Dot Net\Demo_OOP_CSharp\obj\Debug\net8.0\Demo_OOP_CSharp.genruntimeconfig.cache
+D:\250845920054\MS Dot Net\MS Dot Net\Demo_OOP_CSharp\obj\Debug\net8.0\ref\Demo_OOP_CSharp.dll

@@ -1,0 +1,11 @@
+D:\250845920054\MS Dot Net\MS Dot Net\ClassTemplateLibrary\bin\Debug\net8.0\ClassTemplateLibrary.deps.json
+D:\250845920054\MS Dot Net\MS Dot Net\ClassTemplateLibrary\bin\Debug\net8.0\ClassTemplateLibrary.dll
+D:\250845920054\MS Dot Net\MS Dot Net\ClassTemplateLibrary\bin\Debug\net8.0\ClassTemplateLibrary.pdb
+D:\250845920054\MS Dot Net\MS Dot Net\ClassTemplateLibrary\obj\Debug\net8.0\ClassTemplateLibrary.GeneratedMSBuildEditorConfig.editorconfig
+D:\250845920054\MS Dot Net\MS Dot Net\ClassTemplateLibrary\obj\Debug\net8.0\ClassTemplateLibrary.AssemblyInfoInputs.cache
+D:\250845920054\MS Dot Net\MS Dot Net\ClassTemplateLibrary\obj\Debug\net8.0\ClassTemplateLibrary.AssemblyInfo.cs
+D:\250845920054\MS Dot Net\MS Dot Net\ClassTemplateLibrary\obj\Debug\net8.0\ClassTemplateLibrary.csproj.CoreCompileInputs.cache
+D:\250845920054\MS Dot Net\MS Dot Net\ClassTemplateLibrary\obj\Debug\net8.0\ClassTemplateLibrary.dll
+D:\250845920054\MS Dot Net\MS Dot Net\ClassTemplateLibrary\obj\Debug\net8.0\refint\ClassTemplateLibrary.dll
+D:\250845920054\MS Dot Net\MS Dot Net\ClassTemplateLibrary\obj\Debug\net8.0\ClassTemplateLibrary.pdb
+D:\250845920054\MS Dot Net\MS Dot Net\ClassTemplateLibrary\obj\Debug\net8.0\ref\ClassTemplateLibrary.dll

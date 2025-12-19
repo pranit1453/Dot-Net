@@ -1,0 +1,14 @@
+D:\250845920054\MS Dot Net\MS Dot Net\Override_Virtual_New\bin\Debug\net8.0\Override_Virtual_New.exe
+D:\250845920054\MS Dot Net\MS Dot Net\Override_Virtual_New\bin\Debug\net8.0\Override_Virtual_New.deps.json
+D:\250845920054\MS Dot Net\MS Dot Net\Override_Virtual_New\bin\Debug\net8.0\Override_Virtual_New.runtimeconfig.json
+D:\250845920054\MS Dot Net\MS Dot Net\Override_Virtual_New\bin\Debug\net8.0\Override_Virtual_New.dll
+D:\250845920054\MS Dot Net\MS Dot Net\Override_Virtual_New\bin\Debug\net8.0\Override_Virtual_New.pdb
+D:\250845920054\MS Dot Net\MS Dot Net\Override_Virtual_New\obj\Debug\net8.0\Override_Virtual_New.GeneratedMSBuildEditorConfig.editorconfig
+D:\250845920054\MS Dot Net\MS Dot Net\Override_Virtual_New\obj\Debug\net8.0\Override_Virtual_New.AssemblyInfoInputs.cache
+D:\250845920054\MS Dot Net\MS Dot Net\Override_Virtual_New\obj\Debug\net8.0\Override_Virtual_New.AssemblyInfo.cs
+D:\250845920054\MS Dot Net\MS Dot Net\Override_Virtual_New\obj\Debug\net8.0\Override_Virtual_New.csproj.CoreCompileInputs.cache
+D:\250845920054\MS Dot Net\MS Dot Net\Override_Virtual_New\obj\Debug\net8.0\Override_Virtual_New.dll
+D:\250845920054\MS Dot Net\MS Dot Net\Override_Virtual_New\obj\Debug\net8.0\refint\Override_Virtual_New.dll
+D:\250845920054\MS Dot Net\MS Dot Net\Override_Virtual_New\obj\Debug\net8.0\Override_Virtual_New.pdb
+D:\250845920054\MS Dot Net\MS Dot Net\Override_Virtual_New\obj\Debug\net8.0\Override_Virtual_New.genruntimeconfig.cache
+D:\250845920054\MS Dot Net\MS Dot Net\Override_Virtual_New\obj\Debug\net8.0\ref\Override_Virtual_New.dll

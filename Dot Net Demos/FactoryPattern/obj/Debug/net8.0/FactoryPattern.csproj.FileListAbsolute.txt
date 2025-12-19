@@ -1,0 +1,14 @@
+D:\250845920054\MS Dot Net\MS Dot Net\FactoryPattern\bin\Debug\net8.0\FactoryPattern.exe
+D:\250845920054\MS Dot Net\MS Dot Net\FactoryPattern\bin\Debug\net8.0\FactoryPattern.deps.json
+D:\250845920054\MS Dot Net\MS Dot Net\FactoryPattern\bin\Debug\net8.0\FactoryPattern.runtimeconfig.json
+D:\250845920054\MS Dot Net\MS Dot Net\FactoryPattern\bin\Debug\net8.0\FactoryPattern.dll
+D:\250845920054\MS Dot Net\MS Dot Net\FactoryPattern\bin\Debug\net8.0\FactoryPattern.pdb
+D:\250845920054\MS Dot Net\MS Dot Net\FactoryPattern\obj\Debug\net8.0\FactoryPattern.GeneratedMSBuildEditorConfig.editorconfig
+D:\250845920054\MS Dot Net\MS Dot Net\FactoryPattern\obj\Debug\net8.0\FactoryPattern.AssemblyInfoInputs.cache
+D:\250845920054\MS Dot Net\MS Dot Net\FactoryPattern\obj\Debug\net8.0\FactoryPattern.AssemblyInfo.cs
+D:\250845920054\MS Dot Net\MS Dot Net\FactoryPattern\obj\Debug\net8.0\FactoryPattern.csproj.CoreCompileInputs.cache
+D:\250845920054\MS Dot Net\MS Dot Net\FactoryPattern\obj\Debug\net8.0\FactoryPattern.dll
+D:\250845920054\MS Dot Net\MS Dot Net\FactoryPattern\obj\Debug\net8.0\refint\FactoryPattern.dll
+D:\250845920054\MS Dot Net\MS Dot Net\FactoryPattern\obj\Debug\net8.0\FactoryPattern.pdb
+D:\250845920054\MS Dot Net\MS Dot Net\FactoryPattern\obj\Debug\net8.0\FactoryPattern.genruntimeconfig.cache
+D:\250845920054\MS Dot Net\MS Dot Net\FactoryPattern\obj\Debug\net8.0\ref\FactoryPattern.dll

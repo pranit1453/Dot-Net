@@ -1,0 +1,14 @@
+D:\250845920054\MS Dot Net\MS Dot Net\Core_DotNet_Hello_World\bin\Debug\net8.0\Core_DotNet_Hello_World.exe
+D:\250845920054\MS Dot Net\MS Dot Net\Core_DotNet_Hello_World\bin\Debug\net8.0\Core_DotNet_Hello_World.deps.json
+D:\250845920054\MS Dot Net\MS Dot Net\Core_DotNet_Hello_World\bin\Debug\net8.0\Core_DotNet_Hello_World.runtimeconfig.json
+D:\250845920054\MS Dot Net\MS Dot Net\Core_DotNet_Hello_World\bin\Debug\net8.0\Core_DotNet_Hello_World.dll
+D:\250845920054\MS Dot Net\MS Dot Net\Core_DotNet_Hello_World\bin\Debug\net8.0\Core_DotNet_Hello_World.pdb
+D:\250845920054\MS Dot Net\MS Dot Net\Core_DotNet_Hello_World\obj\Debug\net8.0\Core_DotNet_Hello_World.GeneratedMSBuildEditorConfig.editorconfig
+D:\250845920054\MS Dot Net\MS Dot Net\Core_DotNet_Hello_World\obj\Debug\net8.0\Core_DotNet_Hello_World.AssemblyInfoInputs.cache
+D:\250845920054\MS Dot Net\MS Dot Net\Core_DotNet_Hello_World\obj\Debug\net8.0\Core_DotNet_Hello_World.AssemblyInfo.cs
+D:\250845920054\MS Dot Net\MS Dot Net\Core_DotNet_Hello_World\obj\Debug\net8.0\Core_DotNet_Hello_World.csproj.CoreCompileInputs.cache
+D:\250845920054\MS Dot Net\MS Dot Net\Core_DotNet_Hello_World\obj\Debug\net8.0\Core_DotNet_Hello_World.dll
+D:\250845920054\MS Dot Net\MS Dot Net\Core_DotNet_Hello_World\obj\Debug\net8.0\refint\Core_DotNet_Hello_World.dll
+D:\250845920054\MS Dot Net\MS Dot Net\Core_DotNet_Hello_World\obj\Debug\net8.0\Core_DotNet_Hello_World.pdb
+D:\250845920054\MS Dot Net\MS Dot Net\Core_DotNet_Hello_World\obj\Debug\net8.0\Core_DotNet_Hello_World.genruntimeconfig.cache
+D:\250845920054\MS Dot Net\MS Dot Net\Core_DotNet_Hello_World\obj\Debug\net8.0\ref\Core_DotNet_Hello_World.dll

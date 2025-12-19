@@ -1,0 +1,14 @@
+D:\250845920054\MS Dot Net\MS Dot Net\00Demo_Interface\bin\Debug\net8.0\00Demo_Interface.exe
+D:\250845920054\MS Dot Net\MS Dot Net\00Demo_Interface\bin\Debug\net8.0\00Demo_Interface.deps.json
+D:\250845920054\MS Dot Net\MS Dot Net\00Demo_Interface\bin\Debug\net8.0\00Demo_Interface.runtimeconfig.json
+D:\250845920054\MS Dot Net\MS Dot Net\00Demo_Interface\bin\Debug\net8.0\00Demo_Interface.dll
+D:\250845920054\MS Dot Net\MS Dot Net\00Demo_Interface\bin\Debug\net8.0\00Demo_Interface.pdb
+D:\250845920054\MS Dot Net\MS Dot Net\00Demo_Interface\obj\Debug\net8.0\00Demo_Interface.GeneratedMSBuildEditorConfig.editorconfig
+D:\250845920054\MS Dot Net\MS Dot Net\00Demo_Interface\obj\Debug\net8.0\00Demo_Interface.AssemblyInfoInputs.cache
+D:\250845920054\MS Dot Net\MS Dot Net\00Demo_Interface\obj\Debug\net8.0\00Demo_Interface.AssemblyInfo.cs
+D:\250845920054\MS Dot Net\MS Dot Net\00Demo_Interface\obj\Debug\net8.0\00Demo_Interface.csproj.CoreCompileInputs.cache
+D:\250845920054\MS Dot Net\MS Dot Net\00Demo_Interface\obj\Debug\net8.0\00Demo_Interface.dll
+D:\250845920054\MS Dot Net\MS Dot Net\00Demo_Interface\obj\Debug\net8.0\refint\00Demo_Interface.dll
+D:\250845920054\MS Dot Net\MS Dot Net\00Demo_Interface\obj\Debug\net8.0\00Demo_Interface.pdb
+D:\250845920054\MS Dot Net\MS Dot Net\00Demo_Interface\obj\Debug\net8.0\00Demo_Interface.genruntimeconfig.cache
+D:\250845920054\MS Dot Net\MS Dot Net\00Demo_Interface\obj\Debug\net8.0\ref\00Demo_Interface.dll

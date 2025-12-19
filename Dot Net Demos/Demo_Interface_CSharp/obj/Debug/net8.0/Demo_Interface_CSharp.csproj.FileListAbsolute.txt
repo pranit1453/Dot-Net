@@ -1,0 +1,14 @@
+D:\250845920054\MS Dot Net\MS Dot Net\Demo_Interface_CSharp\bin\Debug\net8.0\Demo_Interface_CSharp.exe
+D:\250845920054\MS Dot Net\MS Dot Net\Demo_Interface_CSharp\bin\Debug\net8.0\Demo_Interface_CSharp.deps.json
+D:\250845920054\MS Dot Net\MS Dot Net\Demo_Interface_CSharp\bin\Debug\net8.0\Demo_Interface_CSharp.runtimeconfig.json
+D:\250845920054\MS Dot Net\MS Dot Net\Demo_Interface_CSharp\bin\Debug\net8.0\Demo_Interface_CSharp.dll
+D:\250845920054\MS Dot Net\MS Dot Net\Demo_Interface_CSharp\bin\Debug\net8.0\Demo_Interface_CSharp.pdb
+D:\250845920054\MS Dot Net\MS Dot Net\Demo_Interface_CSharp\obj\Debug\net8.0\Demo_Interface_CSharp.GeneratedMSBuildEditorConfig.editorconfig
+D:\250845920054\MS Dot Net\MS Dot Net\Demo_Interface_CSharp\obj\Debug\net8.0\Demo_Interface_CSharp.AssemblyInfoInputs.cache
+D:\250845920054\MS Dot Net\MS Dot Net\Demo_Interface_CSharp\obj\Debug\net8.0\Demo_Interface_CSharp.AssemblyInfo.cs
+D:\250845920054\MS Dot Net\MS Dot Net\Demo_Interface_CSharp\obj\Debug\net8.0\Demo_Interface_CSharp.csproj.CoreCompileInputs.cache
+D:\250845920054\MS Dot Net\MS Dot Net\Demo_Interface_CSharp\obj\Debug\net8.0\Demo_Interface_CSharp.dll
+D:\250845920054\MS Dot Net\MS Dot Net\Demo_Interface_CSharp\obj\Debug\net8.0\refint\Demo_Interface_CSharp.dll
+D:\250845920054\MS Dot Net\MS Dot Net\Demo_Interface_CSharp\obj\Debug\net8.0\Demo_Interface_CSharp.pdb
+D:\250845920054\MS Dot Net\MS Dot Net\Demo_Interface_CSharp\obj\Debug\net8.0\Demo_Interface_CSharp.genruntimeconfig.cache
+D:\250845920054\MS Dot Net\MS Dot Net\Demo_Interface_CSharp\obj\Debug\net8.0\ref\Demo_Interface_CSharp.dll

@@ -1,0 +1,14 @@
+D:\250845920054\MS Dot Net\MS Dot Net\Notepad_DI\bin\Debug\net8.0\Notepad_DI.exe
+D:\250845920054\MS Dot Net\MS Dot Net\Notepad_DI\bin\Debug\net8.0\Notepad_DI.deps.json
+D:\250845920054\MS Dot Net\MS Dot Net\Notepad_DI\bin\Debug\net8.0\Notepad_DI.runtimeconfig.json
+D:\250845920054\MS Dot Net\MS Dot Net\Notepad_DI\bin\Debug\net8.0\Notepad_DI.dll
+D:\250845920054\MS Dot Net\MS Dot Net\Notepad_DI\bin\Debug\net8.0\Notepad_DI.pdb
+D:\250845920054\MS Dot Net\MS Dot Net\Notepad_DI\obj\Debug\net8.0\Notepad_DI.GeneratedMSBuildEditorConfig.editorconfig
+D:\250845920054\MS Dot Net\MS Dot Net\Notepad_DI\obj\Debug\net8.0\Notepad_DI.AssemblyInfoInputs.cache
+D:\250845920054\MS Dot Net\MS Dot Net\Notepad_DI\obj\Debug\net8.0\Notepad_DI.AssemblyInfo.cs
+D:\250845920054\MS Dot Net\MS Dot Net\Notepad_DI\obj\Debug\net8.0\Notepad_DI.csproj.CoreCompileInputs.cache
+D:\250845920054\MS Dot Net\MS Dot Net\Notepad_DI\obj\Debug\net8.0\Notepad_DI.dll
+D:\250845920054\MS Dot Net\MS Dot Net\Notepad_DI\obj\Debug\net8.0\refint\Notepad_DI.dll
+D:\250845920054\MS Dot Net\MS Dot Net\Notepad_DI\obj\Debug\net8.0\Notepad_DI.pdb
+D:\250845920054\MS Dot Net\MS Dot Net\Notepad_DI\obj\Debug\net8.0\Notepad_DI.genruntimeconfig.cache
+D:\250845920054\MS Dot Net\MS Dot Net\Notepad_DI\obj\Debug\net8.0\ref\Notepad_DI.dll
