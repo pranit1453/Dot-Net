@@ -1,0 +1,14 @@
+D:\250845920054\MS Dot Net\MS Dot Net\Serialization_Deserialization\bin\Debug\net8.0\Serialization_Deserialization.exe
+D:\250845920054\MS Dot Net\MS Dot Net\Serialization_Deserialization\bin\Debug\net8.0\Serialization_Deserialization.deps.json
+D:\250845920054\MS Dot Net\MS Dot Net\Serialization_Deserialization\bin\Debug\net8.0\Serialization_Deserialization.runtimeconfig.json
+D:\250845920054\MS Dot Net\MS Dot Net\Serialization_Deserialization\bin\Debug\net8.0\Serialization_Deserialization.dll
+D:\250845920054\MS Dot Net\MS Dot Net\Serialization_Deserialization\bin\Debug\net8.0\Serialization_Deserialization.pdb
+D:\250845920054\MS Dot Net\MS Dot Net\Serialization_Deserialization\obj\Debug\net8.0\Serialization_Deserialization.GeneratedMSBuildEditorConfig.editorconfig
+D:\250845920054\MS Dot Net\MS Dot Net\Serialization_Deserialization\obj\Debug\net8.0\Serialization_Deserialization.AssemblyInfoInputs.cache
+D:\250845920054\MS Dot Net\MS Dot Net\Serialization_Deserialization\obj\Debug\net8.0\Serialization_Deserialization.AssemblyInfo.cs
+D:\250845920054\MS Dot Net\MS Dot Net\Serialization_Deserialization\obj\Debug\net8.0\Serialization_Deserialization.csproj.CoreCompileInputs.cache
+D:\250845920054\MS Dot Net\MS Dot Net\Serialization_Deserialization\obj\Debug\net8.0\Serialization_Deserialization.dll
+D:\250845920054\MS Dot Net\MS Dot Net\Serialization_Deserialization\obj\Debug\net8.0\refint\Serialization_Deserialization.dll
+D:\250845920054\MS Dot Net\MS Dot Net\Serialization_Deserialization\obj\Debug\net8.0\Serialization_Deserialization.pdb
+D:\250845920054\MS Dot Net\MS Dot Net\Serialization_Deserialization\obj\Debug\net8.0\Serialization_Deserialization.genruntimeconfig.cache
+D:\250845920054\MS Dot Net\MS Dot Net\Serialization_Deserialization\obj\Debug\net8.0\ref\Serialization_Deserialization.dll

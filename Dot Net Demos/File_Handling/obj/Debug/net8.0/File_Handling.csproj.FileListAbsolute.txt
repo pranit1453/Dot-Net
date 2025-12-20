@@ -1,0 +1,14 @@
+D:\250845920054\MS Dot Net\MS Dot Net\File_Handling\bin\Debug\net8.0\File_Handling.exe
+D:\250845920054\MS Dot Net\MS Dot Net\File_Handling\bin\Debug\net8.0\File_Handling.deps.json
+D:\250845920054\MS Dot Net\MS Dot Net\File_Handling\bin\Debug\net8.0\File_Handling.runtimeconfig.json
+D:\250845920054\MS Dot Net\MS Dot Net\File_Handling\bin\Debug\net8.0\File_Handling.dll
+D:\250845920054\MS Dot Net\MS Dot Net\File_Handling\bin\Debug\net8.0\File_Handling.pdb
+D:\250845920054\MS Dot Net\MS Dot Net\File_Handling\obj\Debug\net8.0\File_Handling.GeneratedMSBuildEditorConfig.editorconfig
+D:\250845920054\MS Dot Net\MS Dot Net\File_Handling\obj\Debug\net8.0\File_Handling.AssemblyInfoInputs.cache
+D:\250845920054\MS Dot Net\MS Dot Net\File_Handling\obj\Debug\net8.0\File_Handling.AssemblyInfo.cs
+D:\250845920054\MS Dot Net\MS Dot Net\File_Handling\obj\Debug\net8.0\File_Handling.csproj.CoreCompileInputs.cache
+D:\250845920054\MS Dot Net\MS Dot Net\File_Handling\obj\Debug\net8.0\File_Handling.dll
+D:\250845920054\MS Dot Net\MS Dot Net\File_Handling\obj\Debug\net8.0\refint\File_Handling.dll
+D:\250845920054\MS Dot Net\MS Dot Net\File_Handling\obj\Debug\net8.0\File_Handling.pdb
+D:\250845920054\MS Dot Net\MS Dot Net\File_Handling\obj\Debug\net8.0\File_Handling.genruntimeconfig.cache
+D:\250845920054\MS Dot Net\MS Dot Net\File_Handling\obj\Debug\net8.0\ref\File_Handling.dll

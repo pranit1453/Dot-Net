@@ -1,0 +1,14 @@
+D:\250845920054\MS Dot Net\MS Dot Net\BinarySerilaizable\bin\Debug\net6.0\BinarySerilaizable.exe
+D:\250845920054\MS Dot Net\MS Dot Net\BinarySerilaizable\bin\Debug\net6.0\BinarySerilaizable.deps.json
+D:\250845920054\MS Dot Net\MS Dot Net\BinarySerilaizable\bin\Debug\net6.0\BinarySerilaizable.runtimeconfig.json
+D:\250845920054\MS Dot Net\MS Dot Net\BinarySerilaizable\bin\Debug\net6.0\BinarySerilaizable.dll
+D:\250845920054\MS Dot Net\MS Dot Net\BinarySerilaizable\bin\Debug\net6.0\BinarySerilaizable.pdb
+D:\250845920054\MS Dot Net\MS Dot Net\BinarySerilaizable\obj\Debug\net6.0\BinarySerilaizable.GeneratedMSBuildEditorConfig.editorconfig
+D:\250845920054\MS Dot Net\MS Dot Net\BinarySerilaizable\obj\Debug\net6.0\BinarySerilaizable.AssemblyInfoInputs.cache
+D:\250845920054\MS Dot Net\MS Dot Net\BinarySerilaizable\obj\Debug\net6.0\BinarySerilaizable.AssemblyInfo.cs
+D:\250845920054\MS Dot Net\MS Dot Net\BinarySerilaizable\obj\Debug\net6.0\BinarySerilaizable.csproj.CoreCompileInputs.cache
+D:\250845920054\MS Dot Net\MS Dot Net\BinarySerilaizable\obj\Debug\net6.0\BinarySerilaizable.dll
+D:\250845920054\MS Dot Net\MS Dot Net\BinarySerilaizable\obj\Debug\net6.0\refint\BinarySerilaizable.dll
+D:\250845920054\MS Dot Net\MS Dot Net\BinarySerilaizable\obj\Debug\net6.0\BinarySerilaizable.pdb
+D:\250845920054\MS Dot Net\MS Dot Net\BinarySerilaizable\obj\Debug\net6.0\BinarySerilaizable.genruntimeconfig.cache
+D:\250845920054\MS Dot Net\MS Dot Net\BinarySerilaizable\obj\Debug\net6.0\ref\BinarySerilaizable.dll
