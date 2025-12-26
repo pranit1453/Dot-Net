@@ -1,0 +1,11 @@
+D:\250845920054\MS Dot Net\MS Dot Net\CustomAttribute\bin\Debug\net8.0\CustomAttribute.deps.json
+D:\250845920054\MS Dot Net\MS Dot Net\CustomAttribute\bin\Debug\net8.0\CustomAttribute.dll
+D:\250845920054\MS Dot Net\MS Dot Net\CustomAttribute\bin\Debug\net8.0\CustomAttribute.pdb
+D:\250845920054\MS Dot Net\MS Dot Net\CustomAttribute\obj\Debug\net8.0\CustomAttribute.GeneratedMSBuildEditorConfig.editorconfig
+D:\250845920054\MS Dot Net\MS Dot Net\CustomAttribute\obj\Debug\net8.0\CustomAttribute.AssemblyInfoInputs.cache
+D:\250845920054\MS Dot Net\MS Dot Net\CustomAttribute\obj\Debug\net8.0\CustomAttribute.AssemblyInfo.cs
+D:\250845920054\MS Dot Net\MS Dot Net\CustomAttribute\obj\Debug\net8.0\CustomAttribute.csproj.CoreCompileInputs.cache
+D:\250845920054\MS Dot Net\MS Dot Net\CustomAttribute\obj\Debug\net8.0\CustomAttribute.dll
+D:\250845920054\MS Dot Net\MS Dot Net\CustomAttribute\obj\Debug\net8.0\refint\CustomAttribute.dll
+D:\250845920054\MS Dot Net\MS Dot Net\CustomAttribute\obj\Debug\net8.0\CustomAttribute.pdb
+D:\250845920054\MS Dot Net\MS Dot Net\CustomAttribute\obj\Debug\net8.0\ref\CustomAttribute.dll

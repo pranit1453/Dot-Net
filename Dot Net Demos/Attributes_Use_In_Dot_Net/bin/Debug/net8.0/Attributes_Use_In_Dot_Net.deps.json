@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Attributes_Use_In_Dot_Net/1.0.0": {
+        "runtime": {
+          "Attributes_Use_In_Dot_Net.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Attributes_Use_In_Dot_Net/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

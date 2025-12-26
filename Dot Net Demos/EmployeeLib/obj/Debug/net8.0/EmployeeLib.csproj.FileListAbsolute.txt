@@ -1,0 +1,11 @@
+D:\250845920054\MS Dot Net\MS Dot Net\EmployeeLib\bin\Debug\net8.0\EmployeeLib.deps.json
+D:\250845920054\MS Dot Net\MS Dot Net\EmployeeLib\bin\Debug\net8.0\EmployeeLib.dll
+D:\250845920054\MS Dot Net\MS Dot Net\EmployeeLib\bin\Debug\net8.0\EmployeeLib.pdb
+D:\250845920054\MS Dot Net\MS Dot Net\EmployeeLib\obj\Debug\net8.0\EmployeeLib.GeneratedMSBuildEditorConfig.editorconfig
+D:\250845920054\MS Dot Net\MS Dot Net\EmployeeLib\obj\Debug\net8.0\EmployeeLib.AssemblyInfoInputs.cache
+D:\250845920054\MS Dot Net\MS Dot Net\EmployeeLib\obj\Debug\net8.0\EmployeeLib.AssemblyInfo.cs
+D:\250845920054\MS Dot Net\MS Dot Net\EmployeeLib\obj\Debug\net8.0\EmployeeLib.csproj.CoreCompileInputs.cache
+D:\250845920054\MS Dot Net\MS Dot Net\EmployeeLib\obj\Debug\net8.0\EmployeeLib.dll
+D:\250845920054\MS Dot Net\MS Dot Net\EmployeeLib\obj\Debug\net8.0\refint\EmployeeLib.dll
+D:\250845920054\MS Dot Net\MS Dot Net\EmployeeLib\obj\Debug\net8.0\EmployeeLib.pdb
+D:\250845920054\MS Dot Net\MS Dot Net\EmployeeLib\obj\Debug\net8.0\ref\EmployeeLib.dll

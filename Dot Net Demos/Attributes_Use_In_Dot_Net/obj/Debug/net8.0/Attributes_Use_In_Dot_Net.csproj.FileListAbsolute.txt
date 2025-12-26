@@ -1,0 +1,14 @@
+D:\250845920054\MS Dot Net\MS Dot Net\Attributes_Use_In_Dot_Net\bin\Debug\net8.0\Attributes_Use_In_Dot_Net.exe
+D:\250845920054\MS Dot Net\MS Dot Net\Attributes_Use_In_Dot_Net\bin\Debug\net8.0\Attributes_Use_In_Dot_Net.deps.json
+D:\250845920054\MS Dot Net\MS Dot Net\Attributes_Use_In_Dot_Net\bin\Debug\net8.0\Attributes_Use_In_Dot_Net.runtimeconfig.json
+D:\250845920054\MS Dot Net\MS Dot Net\Attributes_Use_In_Dot_Net\bin\Debug\net8.0\Attributes_Use_In_Dot_Net.dll
+D:\250845920054\MS Dot Net\MS Dot Net\Attributes_Use_In_Dot_Net\bin\Debug\net8.0\Attributes_Use_In_Dot_Net.pdb
+D:\250845920054\MS Dot Net\MS Dot Net\Attributes_Use_In_Dot_Net\obj\Debug\net8.0\Attributes_Use_In_Dot_Net.GeneratedMSBuildEditorConfig.editorconfig
+D:\250845920054\MS Dot Net\MS Dot Net\Attributes_Use_In_Dot_Net\obj\Debug\net8.0\Attributes_Use_In_Dot_Net.AssemblyInfoInputs.cache
+D:\250845920054\MS Dot Net\MS Dot Net\Attributes_Use_In_Dot_Net\obj\Debug\net8.0\Attributes_Use_In_Dot_Net.AssemblyInfo.cs
+D:\250845920054\MS Dot Net\MS Dot Net\Attributes_Use_In_Dot_Net\obj\Debug\net8.0\Attributes_Use_In_Dot_Net.csproj.CoreCompileInputs.cache
+D:\250845920054\MS Dot Net\MS Dot Net\Attributes_Use_In_Dot_Net\obj\Debug\net8.0\Attributes_Use_In_Dot_Net.dll
+D:\250845920054\MS Dot Net\MS Dot Net\Attributes_Use_In_Dot_Net\obj\Debug\net8.0\refint\Attributes_Use_In_Dot_Net.dll
+D:\250845920054\MS Dot Net\MS Dot Net\Attributes_Use_In_Dot_Net\obj\Debug\net8.0\Attributes_Use_In_Dot_Net.pdb
+D:\250845920054\MS Dot Net\MS Dot Net\Attributes_Use_In_Dot_Net\obj\Debug\net8.0\Attributes_Use_In_Dot_Net.genruntimeconfig.cache
+D:\250845920054\MS Dot Net\MS Dot Net\Attributes_Use_In_Dot_Net\obj\Debug\net8.0\ref\Attributes_Use_In_Dot_Net.dll

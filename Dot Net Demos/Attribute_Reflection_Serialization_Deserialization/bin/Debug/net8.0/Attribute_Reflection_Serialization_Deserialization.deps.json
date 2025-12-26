@@ -1,0 +1,39 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Attribute_Reflection_Serialization_Deserialization/1.0.0": {
+        "dependencies": {
+          "CustomAttribute": "1.0.0"
+        },
+        "runtime": {
+          "Attribute_Reflection_Serialization_Deserialization.dll": {}
+        }
+      },
+      "CustomAttribute/1.0.0": {
+        "runtime": {
+          "CustomAttribute.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Attribute_Reflection_Serialization_Deserialization/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "CustomAttribute/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
