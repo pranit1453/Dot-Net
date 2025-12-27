@@ -61,6 +61,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CSharpFeatures", "CSharpFea
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CSharpFeaturesAdvance", "CSharpFeaturesAdvance\CSharpFeaturesAdvance.csproj", "{FD718F56-9AE0-4098-AD95-2CA5D112FD90}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DatabaseConnectivityEfficiently", "DatabaseConnectivityEfficiently\DatabaseConnectivityEfficiently.csproj", "{841E1876-41CA-4E53-B686-C8EE4F96F311}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EmployeeLogin", "EmployeeLogin\EmployeeLogin.csproj", "{AD392F78-B7D3-4CF2-9808-8922F94F5444}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -183,6 +187,14 @@ Global
 		{FD718F56-9AE0-4098-AD95-2CA5D112FD90}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{FD718F56-9AE0-4098-AD95-2CA5D112FD90}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{FD718F56-9AE0-4098-AD95-2CA5D112FD90}.Release|Any CPU.Build.0 = Release|Any CPU
+		{841E1876-41CA-4E53-B686-C8EE4F96F311}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{841E1876-41CA-4E53-B686-C8EE4F96F311}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{841E1876-41CA-4E53-B686-C8EE4F96F311}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{841E1876-41CA-4E53-B686-C8EE4F96F311}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AD392F78-B7D3-4CF2-9808-8922F94F5444}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AD392F78-B7D3-4CF2-9808-8922F94F5444}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AD392F78-B7D3-4CF2-9808-8922F94F5444}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AD392F78-B7D3-4CF2-9808-8922F94F5444}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

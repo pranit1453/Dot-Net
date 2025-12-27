@@ -14,6 +14,10 @@ namespace CSharpFeaturesAdvance.GenericMethods
             /*
              dynamic bypasses compile-time type checking. 
              You must ensure the operation + is valid for the type T.
+
+            If T is int, sum += item → integer addition
+            If T is double, sum += item → floating-point addition
+            If T is string, sum += item → concatenation
              */
             dynamic sum = 0; // The type is determined at runtime.
             foreach (var item in arr)
