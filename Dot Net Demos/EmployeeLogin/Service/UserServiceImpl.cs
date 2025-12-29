@@ -1,12 +1,10 @@
-﻿using EmployeeLogin.DAL;
-using EmployeeLogin.Models;
-using System;
+﻿using System;
 using System.Collections.Generic;
-using System.Linq;
 using System.Text;
-using System.Threading.Tasks;
+using UserLogin.DAL;
+using UserLogin.Models;
 
-namespace EmployeeLogin.Service
+namespace UserLogin.Service
 {
     public class UserServiceImpl : UserService
     {
@@ -14,11 +12,27 @@ namespace EmployeeLogin.Service
 
         public UserServiceImpl()
         {
-            repo = new UserRepositoryImpl();
+            repo = UserRepositoryFactory.Create(RepositoryType.StoredProcedure);
         }
-        public User ValidateUser(string? username, string? password)
+
+        public Users? ValidateUser(string? username, string? password)
         {
-            return repo.ValidateUser(username,password);
+            return repo.ValidateUser(username, password);
+        }
+
+        public bool CreateUser(string? createUsername, string? createPassword, string? nameOfUser)
+        {
+            return repo.CreateUser(createUsername,createPassword,nameOfUser);
+        }
+
+        public bool DeleteUser(string? usernameToDelete)
+        {
+            return repo.DeleteUser(usernameToDelete);
+        }
+
+        public Users? UpdateUser(int id, string? updateUsername, string? updatePassword, string? updateName)
+        {
+            return repo.UpdateUser(id, updateUsername,updatePassword,updateName);
         }
     }
 }

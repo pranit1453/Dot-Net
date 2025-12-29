@@ -1,14 +1,15 @@
-﻿using EmployeeLogin.Models;
-using System;
+﻿using System;
 using System.Collections.Generic;
-using System.Linq;
 using System.Text;
-using System.Threading.Tasks;
+using UserLogin.Models;
 
-namespace EmployeeLogin.DAL
+namespace UserLogin.DAL
 {
     public interface UserRepository
     {
-        User ValidateUser(string? username, string? password);
+        bool CreateUser(string? createUsername, string? createPassword, string? nameOfUser);
+        bool DeleteUser(string? usernameToDelete);
+        Users? UpdateUser(int id, string? updateUsername, string? updatePassword, string? updateName);
+        Users? ValidateUser(string? username, string? password);
     }
 }
