@@ -1,0 +1,10 @@
+package Microsoft.EntityFrameworkCore
+package Microsoft.EntityFrameworkCore.SqlServer
+package Microsoft.EntityFrameworkCore.Tools
+
+package Microsoft.Extensions.Configuration
+package Microsoft.Extensions.Configuration.Json
+package Microsoft.Extensions.Configuration.FileExtensions
+
+Add-Migration <classname>ClassMigration
+Update-Database
