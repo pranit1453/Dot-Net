@@ -9,6 +9,7 @@ namespace UserLogin.DAL
     public enum RepositoryType
     {
         Sql,
-        StoredProcedure
+        StoredProcedure,
+        Linq
     }
 }

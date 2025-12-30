@@ -1,4 +1,6 @@
 ﻿
+using Microsoft.EntityFrameworkCore;
+using UserLogin.DAL;
 using UserLogin.Models;
 using UserLogin.Service;
 
@@ -8,7 +10,12 @@ namespace EmployeeLogin
     {
         static void Main(string[] args)
         {
-            UserService service = new UserServiceImpl();
+            var options = new DbContextOptionsBuilder<ApplicationDbContext>()
+                .UseSqlServer("Data Source=(LocalDB)\\MSSQLLocalDB;Initial Catalog=Test;Integrated Security=True")
+                .Options;
+
+            ApplicationDbContext context = new ApplicationDbContext(options);  
+            UserService service = new UserServiceImpl(context);
 
             while (true)
             {

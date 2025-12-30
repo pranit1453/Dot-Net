@@ -10,9 +10,9 @@ namespace UserLogin.Service
     {
         private readonly UserRepository repo;
 
-        public UserServiceImpl()
+        public UserServiceImpl(ApplicationDbContext context)
         {
-            repo = UserRepositoryFactory.Create(RepositoryType.StoredProcedure);
+            repo = UserRepositoryFactory.Create(RepositoryType.StoredProcedure,context);
         }
 
         public Users? ValidateUser(string? username, string? password)
