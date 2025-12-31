@@ -13,7 +13,10 @@ namespace _03Demo_BasicsMVC
 
             var app = builder.Build();
 
-            // URL : /Home/Index
+            // URL: "/" : /Home/Index
+            // URL : "/Home": /Home/Index
+            // URL : /Home/Index : Default Route
+            //Conventional Based Routing
             app.MapDefaultControllerRoute();
             
             app.Run();
